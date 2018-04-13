@@ -170,6 +170,27 @@ export default {
                             title: '周未2天峨眉山自驾游，无隐含消费全程高速，越野商务车，4人起发',
                             source: '成都中旅游公司旅行社'
                         },
+                        {
+                            src: require('@/assets/images/demo2.jpg'),
+                            agencyPrice: '100',
+                            marketPrice: '200',
+                            title: '周未2天峨眉山自驾游，无隐含消费全程高速，越野商务车，4人起发',
+                            source: '成都中旅游公司旅行社'
+                        },
+                        {
+                            src: require('@/assets/images/demo2.jpg'),
+                            agencyPrice: '100',
+                            marketPrice: '200',
+                            title: '周未2天峨眉山自驾游，无隐含消费全程高速，越野商务车，4人起发',
+                            source: '成都中旅游公司旅行社'
+                        },
+                        {
+                            src: require('@/assets/images/demo2.jpg'),
+                            agencyPrice: '100',
+                            marketPrice: '200',
+                            title: '周未2天峨眉山自驾游，无隐含消费全程高速，越野商务车，4人起发',
+                            source: '成都中旅游公司旅行社'
+                        },
                         
                     ]
                 },
