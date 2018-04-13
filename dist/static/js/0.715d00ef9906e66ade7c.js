@@ -1,0 +1,2 @@
+webpackJsonp([0],{q3Wa:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var s={render:function(){var e=this.$createElement;return(this._self._c||e)("div",[this._v("\n    注册页面"+this._s(this.msg)+"\n")])},staticRenderFns:[]},r=n("VU/8")({data:function(){return{msg:"-OK"}}},s,!1,null,null,null);t.default=r.exports}});
+//# sourceMappingURL=0.715d00ef9906e66ade7c.js.map

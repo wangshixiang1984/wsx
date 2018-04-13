@@ -1,0 +1,34 @@
+@import '~iview/src/styles/index.less';
+// @primary-color: #8c0776;
+@text-color: #495060;
+@primary-color: #2d8cf0;
+@border-color-base: #dddee1; 
+@self-text-color: #2c2e43;
+@link-color: #495060;
+
+.ivu-spin-fix{
+    // background: rgba(255, 255, 255, 0.8)
+    background: 0;
+}
+.loading-wrapper{
+    color: #2c2e43;
+}
+.loading-spin-icon-load{
+    
+    animation: ani-demo-spin 1s linear infinite;
+}
+@keyframes ani-demo-spin {
+    from { transform: rotate(0deg);}
+    50%  { transform: rotate(180deg);}
+    to   { transform: rotate(360deg);}
+}
+
+// .vertical-center-modal{
+//     display: flex;
+//     align-items: center;
+//     justify-content: center;
+
+//     .ivu-modal{
+//         top: 0;
+//     }
+// }
